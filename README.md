@@ -1,2 +1,2 @@
-# RjourneyFirts
+# RjourneyFirst
 R testing public
